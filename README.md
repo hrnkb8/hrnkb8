@@ -53,8 +53,13 @@ Aspiring cybersecurity professional with hands-on experience from leading virtua
 ---
 
 ## Professional Certificates
-- Google Cybersecurity Certificate
+- Google Cybersecurity Profession Certificate
 - Career Essentials in Cybersecurity by Microsoft and LinkedIn
+- Google Data Analysis
+- Google IT Professional
+- Google Business Intelligence
+- Google Python Automation
+
 
 ---
 
