@@ -1,7 +1,5 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/hrnkb8"></a> <a href="https://www.linkedin.com/in/hrnkb8/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/hrnkb8/">Data Analyst</a></h1>
 
-
-# Yakubu Haruna Emmanuel
 **Cyber Security Analyst**  
 Lagos, Nigeria  
 📧 [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com) | [LinkedIn](https://linkedin.com/in/hrnkb8) | [Website](https://hrnkb8.github.io)
@@ -9,7 +7,7 @@ Lagos, Nigeria
 ---
 
 ## Summary
-Aspiring cybersecurity professional with hands-on experience from leading virtual experience programs. Developed foundational skills in risk assessment, threat mitigation, and network security. Enthusiastic about learning and applying cybersecurity principles to real-world challenges. Ready to contribute to a dynamic team while continuing to expand expertise in the cybersecurity domain.
+Aspiring cybersecurity and data analytics professional with hands-on experience from leading virtual experience programs and Google certifications. Proficient in risk assessment, threat mitigation, network security, and data analysis. Enthusiastic about applying learned skills to real-world challenges in cybersecurity, IT automation, and business intelligence. Ready to contribute to a dynamic team while continuously expanding expertise in these fields.
 
 ---
 
@@ -53,28 +51,69 @@ Aspiring cybersecurity professional with hands-on experience from leading virtua
 ---
 
 ## Professional Certificates
-- Google Cybersecurity Profession Certificate
-- Career Essentials in Cybersecurity by Microsoft and LinkedIn
-- Google Data Analysis
-- Google IT Professional
-- Google Business Intelligence
-- Google Python Automation
 
+- **Google Cybersecurity Certificate**  
+  Skills:
+  - Risk management and threat analysis
+  - Incident response and mitigation strategies
+  - Network security and integrated defense
+  - Security policies and frameworks
+  - Vulnerability management
+
+- **Google Data Analytics Professional Certificate**  
+  Skills:
+  - Data cleaning and transformation
+  - SQL for querying databases
+  - Data visualization with tools like Google Data Studio and Tableau
+  - Exploratory data analysis (EDA)
+  - Statistical analysis and hypothesis testing
+
+- **Google Business Intelligence Professional Certificate**  
+  Skills:
+  - Business data analysis using BI tools
+  - Developing dashboards and reports
+  - Data-driven decision-making
+  - Advanced Excel and SQL querying
+  - Data warehousing concepts
+
+- **Google IT Automation with Python Professional Certificate**  
+  Skills:
+  - Python scripting for automation tasks
+  - Automating system administration tasks using Python
+  - Using APIs for automation
+  - Working with cloud platforms (Google Cloud)
+  - Building and managing automated pipelines
+
+- **Google IT Support Professional Certificate**  
+  Skills:
+  - Troubleshooting IT issues and providing solutions
+  - Understanding networking concepts (TCP/IP, DNS, DHCP)
+  - System administration (Windows, Linux, and MacOS)
+  - Customer service skills and ticketing systems
+  - Hardware and software installations and maintenance
+
+- **Google Advanced Data Analytics Professional Certificate**  
+  Skills:
+  - Advanced data modeling and analysis techniques
+  - Predictive analytics and machine learning algorithms
+  - Using BigQuery and cloud-based data analytics platforms
+  - Data storytelling and presenting insights to stakeholders
+  - Data privacy and ethical considerations in analytics
 
 ---
 
 ## Skills
-- **Technical Skills**: Python, Metasploit, SQL, Nmap, Kali Linux, Burp Suite, Linux Command Line, SIEM Tools, Security Frameworks and Controls
-- **Core Competencies**: Risk Assessment, Incident Response, Security Hardening, Threat Intelligence, Data Integrity, Testing Tools, Vulnerability Management
-- **Soft Skills**: Skilled Multi-tasker, Attention to Detail, Organization Skills, Data Entry
-- **Tools**: Security Frameworks, Threats/Risks/Vulnerabilities, Sensitive Information Protection
+
+- **Technical Skills**: Python, Metasploit, SQL, Nmap, Kali Linux, Burp Suite, Linux Command Line, SIEM Tools, Security Frameworks and Controls, Data Analytics, Data Visualization, Google Data Studio, Tableau, Power BI, Jupyter Notebook, Google Cloud Platform, BigQuery
+- **Core Competencies**: Risk Assessment, Incident Response, Security Hardening, Threat Intelligence, Data Integrity, Data Cleaning, Data Analysis, Data Entry, Machine Learning, Predictive Analytics
+- **Soft Skills**: Skilled Multi-tasker, Attention to Detail, Organization Skills, Communication, Problem-Solving
+- **Tools**: Google Analytics, Excel, Jupyter Notebook, SQL Server, Power BI, Tableau, Burp Suite, Security Frameworks, Threats/Risks/Vulnerabilities, Sensitive Information Protection
 
 ---
 
 ## Contact Information
 📧 Email: [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/hrnkb8) | 🌐 [Website](https://hrnkb8.github.io)
-
 
 <!--<h2>👨‍💻 Cybersecurity Projects:</h2>
 
