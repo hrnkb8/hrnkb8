@@ -12,7 +12,7 @@
   - 
   - 
 - <b>Certificate</b>
-  - Google Cybersecurity
+  - Google Cybersecurity Professional
   - Google Data Analysis
   - Google IT Professional
   - Google Business Intelligence
