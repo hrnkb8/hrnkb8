@@ -52,7 +52,7 @@ Aspiring cybersecurity and data analytics professional with hands-on experience 
 
 ## Professional Certificates
 
-- **Google Cybersecurity Certificate**  
+- **Google Cybersecurity Professional Certificate**  
   Skills:
   - Risk management and threat analysis
   - Incident response and mitigation strategies
