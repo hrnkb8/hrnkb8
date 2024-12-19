@@ -1,6 +1,77 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/hrnkb8"></a> <a href="https://www.linkedin.com/in/hrnkb8/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/hrnkb8/">Data Analyst</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+# Yakubu Haruna Emmanuel
+**Cyber Security Analyst**  
+Lagos, Nigeria  
+📧 [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com) | [LinkedIn](https://linkedin.com/in/hrnkb8) | [Website](https://hrnkb8.github.io)
+
+---
+
+## Summary
+Aspiring cybersecurity professional with hands-on experience from leading virtual experience programs. Developed foundational skills in risk assessment, threat mitigation, and network security. Enthusiastic about learning and applying cybersecurity principles to real-world challenges. Ready to contribute to a dynamic team while continuing to expand expertise in the cybersecurity domain.
+
+---
+
+## Work Experience
+
+### **Cybersecurity Intern** | PwC Switzerland Cybersecurity Job Simulation  
+*Forage* | August 2024  
+- Completed a job simulation involving cybersecurity for PwC Digital Intelligence, gaining experience in understanding and explaining the concept of integrated defense.
+- Developed expertise in integrated defense strategies and their application in real-world scenarios.
+- Conducted risk assessments and formulated security recommendations for a client.
+- Demonstrated proficiency in cybersecurity terminology, network segmentation, and firewall configuration.
+
+### **Cybersecurity Intern** | AIG Shields Up Virtual Experience Program  
+*Forage* | August 2024  
+- Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+- Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+- Drafted a clear and concise email to guide teams on vulnerability remediation.
+- Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by brute forcing decryption keys.
+
+### **Cybersecurity Intern** | Mastercard Virtual Experience Program  
+*Forage* | August 2024  
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
+- Helped identify and report security threats such as phishing.
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+
+### **Cybersecurity Intern** | JP Morgan Chase & Co. Virtual Experience Program  
+*Forage* | August 2024  
+- **Risk Assessment & Mitigation**: Analyzed potential cybersecurity threats and vulnerabilities within financial systems, applying JP Morgan’s risk management frameworks to develop strategic responses and mitigation plans.
+- **Incident Response**: Developed and executed incident response strategies, focusing on rapid containment and recovery from simulated breaches, ensuring minimal impact on business operations.
+- **Threat Intelligence**: Conducted in-depth analysis of emerging cyber threats and trends, leveraging advanced tools to enhance organizational defenses against potential attacks.
+- **Security Awareness Training**: Designed and implemented security awareness training modules for employees, aimed at reducing the risk of phishing and social engineering attacks.
+- **Policy Development**: Assisted in the formulation and refinement of security policies, ensuring alignment with industry standards and regulatory requirements.
+- **Collaboration**: Worked closely with cross-functional teams, including IT and legal, to support the development of a robust cybersecurity posture across the organization.
+
+---
+
+## Education
+**Yaba College Of Technology**  
+*2013-2021* — Computer Science
+
+---
+
+## Professional Certificates
+- Google Cybersecurity Certificate
+- Career Essentials in Cybersecurity by Microsoft and LinkedIn
+
+---
+
+## Skills
+- **Technical Skills**: Python, Metasploit, SQL, Nmap, Kali Linux, Burp Suite, Linux Command Line, SIEM Tools, Security Frameworks and Controls
+- **Core Competencies**: Risk Assessment, Incident Response, Security Hardening, Threat Intelligence, Data Integrity, Testing Tools, Vulnerability Management
+- **Soft Skills**: Skilled Multi-tasker, Attention to Detail, Organization Skills, Data Entry
+- **Tools**: Security Frameworks, Threats/Risks/Vulnerabilities, Sensitive Information Protection
+
+---
+
+## Contact Information
+📧 Email: [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/hrnkb8) | 🌐 [Website](https://hrnkb8.github.io)
+
+
+<!--<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - 
@@ -27,7 +98,7 @@
 [twitter]: https://twitter.com/hrnkb8
 [linkedin]: https://linkedin.com/in/hrnkb8
 
-<!-- 
+
 <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
