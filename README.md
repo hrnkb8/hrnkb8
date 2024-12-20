@@ -2,7 +2,7 @@
 
 **Cyber Security Analyst**  
 Lagos, Nigeria  
-📧 [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com) | [LinkedIn](https://linkedin.com/in/hrnkb8) | [Website](https://hrnkb8.github.io)
+📧 [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com) | [LinkedIn](https://linkedin.com/in/hrnkb8) | [Github.io](https://hrnkb8.github.io)
 
 ---
 
@@ -113,7 +113,7 @@ Aspiring cybersecurity and data analytics professional with hands-on experience 
 
 ## Contact Information
 📧 Email: [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/hrnkb8) | 🌐 [Website](https://hrnkb8.github.io)
+🔗 [LinkedIn](https://linkedin.com/in/hrnkb8) | 🌐 [Github.io](https://hrnkb8.github.io)
 
 <!--<h2>👨‍💻 Cybersecurity Projects:</h2>
 
